@@ -1,0 +1,9 @@
+* cl-etcd
+
+Run etcd as an asynchronous inferior process
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/atgreen/cl-etcd.git |
+| commit  | dde1bf6                                    |
+| systems | cl-etcd                                    |
+|---------+--------------------------------------------|
